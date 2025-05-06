@@ -388,7 +388,7 @@ with tempfile.NamedTemporaryFile(delete=False, suffix=".zip") as temp_zip:
 
 
 # Configuración de GitHub
-GITHUB_TOKEN = "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"  # Reemplaza con tu token de acceso personal
+GITHUB_TOKEN = "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"  # Reemplaza con tu token de acceso personal
 REPO_OWNER = "eliasalmadabayer"
 REPO_NAME = "data_p"
 BRANCH_NAME = "main"
